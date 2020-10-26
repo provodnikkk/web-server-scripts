@@ -6,8 +6,6 @@
 YOUR_IPSEC_PSK=''
 YOUR_USERNAME=''
 YOUR_PASSWORD=''
-# Important notes:    https://git.io/vpnnotes
-# Setup VPN clients:  https://git.io/vpnclients
 # Donate:  3KLGhR5mKvg1azQHVGtJhq2eNLWVBY2JHh
 # =====================================================
 export PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
@@ -407,9 +405,7 @@ IPsec PSK: $VPN_IPSEC_PSK
 Username: $VPN_USER
 Password: $VPN_PASSWORD
 Write these down. You'll need them to connect!
-Important notes:    https://git.io/vpnnotes
-Setup VPN clients:  https://git.io/vpnclients
-Donate by Ondrik8:  37MM51WTmbnjqbZqb88MDd9sPBHvNy51nw
+Donate:  3KLGhR5mKvg1azQHVGtJhq2eNLWVBY2JHh
 ================================================
 EOF
 }
